@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.inline {
+  display: inline;
+}
+.center {
+  text-align: center;
+}
+.answer {
+  margin-top: 1rem;
+}
+.center {
+  font-size: 4rem;
+}
